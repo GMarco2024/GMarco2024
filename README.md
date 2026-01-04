@@ -10,7 +10,7 @@ The progression of time is granting us a closer approach to future space mission
 
 <h3>Work</h3>
 
-My academic work focuses on dose assessments based on ICRP Publication 103 methodologies, utilizing a custom computational tool I developed in Mathematica. Other projects in this GitHub page of mine, involve personal projects, such as a photoelectric simulator in the form of a videogame (still in progress).
+My academic work focuses on dose assessments based on ICRP Publication 103 methodologies, utilizing a custom computational tool I developed in Mathematica. Other projects in this GitHub page of mine, involve personal projects, such as a photoelectric simulator in the form of a videogame (still in progress) to be published in the form of an arcade game (one day...).
 
   
 </p>

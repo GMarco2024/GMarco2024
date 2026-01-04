@@ -2,7 +2,7 @@
   <img src="https://github.com/GMarco2024/GMarco2024/blob/main/Illinois%20Tech%20Banner%20That%20I%20Made%20for%20Github%20%20README%20and%20Email%20Template.jpg?raw=true" width="100%" alt="Banner">
 </div>
 <h1>Hello, my name is Marco Gonzalez!</h1>
-  <h2>🚀 Welcome to my GitHub profile!</h2>
+
 
 <p>
 

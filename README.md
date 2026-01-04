@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="illinois-institute-of-technology-01.jpg" width="75%" alt="Banner">
+  <img src="Illinois Tech Banner That I Made for Github README and Email Template.jpg" width="75%" alt="Banner">
 </div>
 <h1>Hello, my name is Marco Gonzalez!</h1>
   <h2>🚀 Welcome to my GitHub profile!</h2>

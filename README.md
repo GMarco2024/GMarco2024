@@ -5,12 +5,13 @@
 
 <p>
 
-The progression of time is granting us a closer approach to future space missions, so the need for advanced radiation protection is critical. As a Master’s Student in Health Physics at the Illinois Institute of Technology, I am dedicated to ensuring human safety in harsh environments where radiation is present.
+The progression of time is granting us a closer approach to future space missions and the growing use for nuclear power, so the need for advanced radiation protection is critical. As a Master’s Student in Health Physics at the Illinois Institute of Technology, I am dedicated to ensuring human safety in harsh environments where radiation is present, wether in space, or on Earth.
 
 <h2>Computational Work</h2>
 
-The purpose of this GitHub profile, is to show my current computaitonal skills. My academic work focuses on dose assessments based on ICRP Publication 103 methodologies, utilizing a custom computational tool I developed in Mathematica. Other projects in this GitHub page of mine, involve personal projects, such as a photoelectric simulator in the form of a videogame (still in progress) to be published in the form of an arcade game (one day...).
+The purpose of this GitHub profile is to show my current and past computational work. Past projects include radiation dose assessments based on ICRP Publication 103 methodologies, via Mathematica, from a given preset data. Another project, outside of health physics and more so on general physics, involves a light diffraction simulator. 
 
+Other projects in this GitHub page of mine, involve personal projects, such as a photoelectric simulator in the form of a videogame (still in progress) to be published in the form of an arcade game (one day...).
   
 </p>
 

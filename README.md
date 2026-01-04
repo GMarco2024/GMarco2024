@@ -5,7 +5,7 @@
 
 <p>
 
-The progression of time is granting us a closer approach to future space missions and the growing use for nuclear power, so the need for advanced radiation protection is critical. As a Master’s Student in Health Physics at the Illinois Institute of Technology, I am dedicated to ensuring human safety in harsh environments where radiation is present, wether in space, or on Earth.
+The progression of time is granting us a closer approach to future space missions and the growing use for nuclear power, so the need for advanced radiation protection is critical. As a Master’s Student in Health Physics at the Illinois Institute of Technology, I am dedicated to ensuring human safety in harsh environments where radiation is present, whether in space, or on Earth.
 
 <h2>Computational Work</h2>
 

@@ -1,8 +1,9 @@
-<div align="left">
+<div align="center">
   <a href="https://www.iit.edu/about">
-    <img src="illinois-institute-of-technology-01.jpg" width="75%" alt="Banner">
+  <img src="illinois-institute-of-technology-01.jpg" width="75%" alt="Banner">
   </a>
-  <h1>Hi, my name is Marco Gonzalez</h1>
+</div>
+<h1>Hi, my name is Marco Gonzalez</h1>
   <h2>🚀 Welcome to my GitHub profile!</h2>
 
 <p>

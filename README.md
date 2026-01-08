@@ -9,7 +9,7 @@ The progression of time is granting us a closer approach to future space mission
 
 <h2>Computational Work</h2>
 
-The purpose of this GitHub profile is to show my current and past coding work. I'm no computer programmer, however, it is important to understand coding to form productive computational tools that may help in the field of physics. Past projects include radiation dose assessments based on ICRP Publication 103 methodologies, via Mathematica. Another project, outside of health physics and more so on general physics, involves a light diffraction simulator. 
+The purpose of this GitHub profile is to show my current and past coding work. I'm no computer programmer, however, it is important to understand coding to form productive computational tools that may help in the field of physics. Past projects include radiation dose assessments based on ICRP Publication 103 methodologies, via Mathematica. Another project, outside of health physics and more so in general physics, involves a light diffraction simulator. 
 
 Other projects in this GitHub page of mine, involve personal projects, such as a photoelectric effect simulator, in the form of a videogame (still in progress), to be published in the form of an arcade game (one day...). 
   
